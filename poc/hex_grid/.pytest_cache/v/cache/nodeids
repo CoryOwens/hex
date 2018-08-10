@@ -1,0 +1,13 @@
+[
+  "test_hex.py::TestHex::test_calc_tile_height_flat",
+  "test_hex.py::TestHex::test_calc_tile_height_point",
+  "test_hex.py::TestHex::test_calc_tile_width_flat",
+  "test_hex.py::TestHex::test_calc_tile_width_point",
+  "test_hex.py::TestHex::test_calc_wedge_size_flat",
+  "test_hex.py::TestHex::test_calc_wedge_size_flat_120",
+  "test_hex.py::TestHex::test_calc_wedge_size_flat_60",
+  "test_hex.py::TestHex::test_calc_wedge_size_flat_rect",
+  "test_hex.py::TestHex::test_calc_wedge_size_point",
+  "test_hex.py::TestHex::test_calc_wedge_size_point_90",
+  "test_hex.py::TestHex::test_calc_wedge_size_point_rect"
+]
